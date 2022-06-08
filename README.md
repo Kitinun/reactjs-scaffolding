@@ -1,7 +1,7 @@
 # Git Clone Project
 Open commandline or Terminal 
 ````
-git clone https://github.com/Kitinun/Test-ICS-Assessment.git
+git clone git@github.com:Kitinun/reactjs-scaffolding.git
 ````
 # Install Project
 ````
