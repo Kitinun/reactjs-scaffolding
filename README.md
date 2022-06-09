@@ -1,8 +1,5 @@
-# Git Clone Project
-Open commandline or Terminal 
-````
-git clone git@github.com:Kitinun/reactjs-scaffolding.git
-````
+# Template React For Free
+
 # Install Project
 ````
 yarn
